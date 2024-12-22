@@ -15,7 +15,7 @@ This repository houses a collection of projects that showcase different aspects 
 
 ### Project 1: Project Name
 
-- **Description**: Brief description of Project 1.
+- **Description**: Welcome code for Django Intro
 - **Directory/Link**: [Project 1 Directory](djangointro/)
 
 
